@@ -16,6 +16,7 @@
     - [Linux](#linux)
   - [Documentación](#documentación)
   - [Estado del proyecto](#estado-del-proyecto)
+  - [Próximas mejoras](#próximas-mejoras)
   - [Autor](#autor)
 
 ## Descripción
@@ -62,6 +63,11 @@ python3 viaje.py
 - [x] Evidencia del funcionamiento
 - [ ] Validar que el nombre del comprador no esté vacío
 - [ ] Guardar las compras realizadas
+
+## Próximas mejoras
+- Validar que el nombre del comprador no esté vacío.
+- Guardar las compras realizadas.
+- Mejorar la presentación del recibo.
 
 ## Autor
 - **Nombre:** Herlan Erwin Herrera Calizaya
